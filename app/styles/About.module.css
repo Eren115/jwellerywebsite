@@ -1,0 +1,81 @@
+.about__div1 {
+    margin-top: 5vw;
+    margin-left: 9vw;
+}
+
+.about__div1 h1 {
+    font-weight: 500;
+    font-size: 2.5vw;
+    margin-top: 4vw;
+    width: 50vw;
+}
+.about__input1 {
+    background: none;
+    border-radius: 0vw;
+    padding: 0.6vw 0.9vw;
+    width: 25vw;
+    outline: none;
+    color: #000;
+    margin-top: 0.5vw;
+    text-align: center;
+    font-size: 1.5vw;
+}
+.about__input2 {
+    background: none;
+    border-radius: 0vw;
+    padding: 0.6vw 0.9vw;
+    width: 25vw;
+    outline: none;
+    color: #000;
+    margin-top: 0.5vw;
+    text-align: center;
+    font-size: 1.5vw;
+    margin-left: 6vw;
+}
+.about__input3 {
+    background: none;
+    border-image: initial;
+    border-radius: 0vw;
+    padding: 0.6vw 0.9vw;
+    width: 56vw;
+    height: 10vw;
+    outline: none;
+    color: #000;
+    margin-top: 1vw;
+    font-size: 1.5vw;
+}
+.about__div2 {
+    margin-left: 9vw;
+    margin-top: 4vw;
+}
+.about__div2 > h1 {
+    font-weight: 500;
+    font-size: 1.8vw;
+}
+.about__div3 {
+    margin-top: 3vw;
+    display: flex;
+}
+.contact__button{
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 1vw;
+}
+.contact__button h1 {
+    font-size: 1.5vw;
+    padding: 0.6vw;
+    width: 12vw;
+    font-weight: 500;
+}
+.about__div6 {
+    margin-top: 2vw;
+}
+.about__div6 h1 {
+    font-weight: 500;
+    font-size: 1.6vw;
+}
+.about__div6 h2 {
+    font-size: 1.3vw;
+}

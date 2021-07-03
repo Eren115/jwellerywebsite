@@ -1,0 +1,50 @@
+.footer__div1 {
+    margin-top: 6vw;
+    margin-bottom: 3vw;
+}
+.footer__div2 {
+    margin-left: 7vw;
+    margin-right: 7vw;
+}
+.footer__div3 {
+    border:  0.01vw solid #e0dbcb;
+    background-color: #e0dbcb;
+}
+.footer__div4 {
+    display: flex;
+    margin-top: 3vw;
+}
+.footer__div8, .footer__div9 {
+    margin-left: 5vw;
+}
+.footer__div6 h1 {
+    font-weight: 550;
+    font-size: 1.7vw;
+    letter-spacing: 0.1vw;
+    cursor: pointer;
+}
+.footer__div7 h2 {
+    font-size: 1.1vw;
+    margin-top: 0.5vw;
+    margin-left: 0.3vw;
+    font-weight: 500;
+}
+.footer__arrow1 {
+    position: relative;
+    top: 0.3vw;
+}
+.footer__div8 h2 {
+    font-weight: 500;
+    font-size: 1.1vw;
+    line-height: 1.7vw;
+    cursor: pointer;
+}
+.footer__div9 h2 {
+    font-weight: 500;
+    font-size: 1.1vw;
+    line-height: 1.7vw;
+    cursor: pointer;
+}
+.footer__arrow1 {
+    font-size: 1.3vw !important;
+}

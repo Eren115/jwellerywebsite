@@ -1,0 +1,21 @@
+.secondProduct__div9 {
+    background-color: #fff;
+    background-size: 20vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 28vw;
+    height: 40vw;
+    cursor: pointer;
+}
+.secondProduct__div7 {
+    margin-top: 1vw;
+    margin-bottom: 1.8vw;
+}
+.secondProduct__div8 h3 {
+    font-weight: 500;
+    font-size: 1.3vw;
+}
+.secondProduct__div8 h2 {
+    font-size: 1.6vw;
+}
+
